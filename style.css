@@ -1,0 +1,14 @@
+* {
+    background-color: lightsteelblue;    
+}
+
+.page-title {
+    font-weight: bold;
+}
+
+.page-subtitle, .page-title {
+    text-align: center;
+    text-shadow: 1px 1px 2px steelblue;
+    text-align: center;
+}
+
