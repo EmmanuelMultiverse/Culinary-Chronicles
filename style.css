@@ -12,17 +12,3 @@
     text-align: center;
 }
 
-h2 {
-    text-shadow: 1px 1px 2px steelblue;
-}
-
-.cuisinelist, .dishlist {
-    font-size: 20px;
-}
-
-img {
-    border-radius: 5px;
-    border-color: black;
-    border: 3px solid rgba(255, 255, 255, .5);
-}
-
